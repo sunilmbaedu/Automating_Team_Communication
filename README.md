@@ -8,13 +8,10 @@ Task Management Integration:
 <body>
 <li><b>Backend Automation:</b> Google Apps Script, JavaScript </li>
     
- <ul><li>Frontend Interface:</li></ul>
-  HTML, CSS
-  <ul><li>Collaborative Data Storage:</li></ul>
-  <ul>
-   Google Sheets
-  </ul>
-
+ <li><b>Frontend Interface:</b> HTML, CSS </li>
+  
+<li>Collaborative Data Storage:</b> Google Sheets</li>
+  
   <ul><li>Communication Channel:</li></ul>
   <ul>
    Gmail
