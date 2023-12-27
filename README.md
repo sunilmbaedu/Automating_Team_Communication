@@ -6,29 +6,29 @@ Task Management Integration:
 
 # Tech Stack
 <body>
-  **Backend Automation:**
+  <ul>Backend Automation:</ul>
   <ul>
     <li>Google Apps Script</li>
     <li>JavaScript</li>
   </ul>
 
- **Frontend Interface:**
+ <ul>Frontend Interface:</ul>
   <ul>
     <li>HTML</li>
     <li>CSS</li>
   </ul>
 
-  **Collaborative Data Storage:**
+  <ul>Collaborative Data Storage:</ul>
   <ul>
     <li>Google Sheets</li>
   </ul>
 
-  **Communication Channel:**
+  <ul>Communication Channel:</ul>
   <ul>
     <li>Gmail</li>
   </ul>
 
-  **Task Management Integration:**
+  <ul>Task Management Integration:</ul>
   <ul>
     <li>Google Sheets</li>
     <li>JavaScript</li>
