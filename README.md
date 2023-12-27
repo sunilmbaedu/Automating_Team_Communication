@@ -5,8 +5,6 @@ Automated Reporting:
 Task Management Integration:
 
 # Tech Stack
- <h2>Tech Stack:</h2>
-
   <h3>Backend Automation:</h3>
   <ul>
     <li>Google Apps Script</li>
