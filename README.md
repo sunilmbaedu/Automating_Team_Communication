@@ -6,8 +6,8 @@ Task Management Integration:
 
 # Tech Stack
 <body>
-  <ul><li>Backend Automation:</li></ul>
-    Google Apps Script, JavaScript
+<li>**Backend Automation:** Google Apps Script, JavaScript </li>
+    
  <ul><li>Frontend Interface:</li></ul>
   HTML, CSS
   <ul><li>Collaborative Data Storage:</li></ul>
