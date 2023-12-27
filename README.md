@@ -1,11 +1,11 @@
 # Automating-Team-Communication
+
 # Features
-Real-time Updates:
-Automated Reporting:
-Task Management Integration:
+<li><b>Real-time Updates:</b> Gmail.</li>
+<li><b>Automated Reporting:</b> Gmail.</li>
+<li><b>Task Management Integration:</b> Gmail.</li>
 
 # Tech Stack
-<body>
 <li><b>Backend Automation:</b> Google Apps Script, JavaScript. </li> 
 <li><b>Frontend Interface:</b> HTML, CSS. </li>
 <li><b>Collaborative Data Storage:</b> Google Sheets.</li>
